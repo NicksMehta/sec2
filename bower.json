@@ -1,0 +1,26 @@
+{
+  "name": "AngularSecurity",
+  "version": "1.0.0",
+  "authors": [
+    "nikhil.mehta007@gmail.com"
+  ],
+  "description": "This library is used to wrap your application on the front end security.",
+  "main": "dist",
+  "keywords": [
+    "Angular",
+    "Security"
+  ],
+  "dependencies": {
+	"angular": ">=1.3.10",
+	"lodash": "3.0.0"
+  },
+  "license": "Free",
+  "homepage": "none",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
